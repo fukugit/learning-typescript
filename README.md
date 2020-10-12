@@ -6,6 +6,7 @@ TypeScriptの勉強用リポジトリです。
 | -------------------- | ----- |
 | [1_hensu](./1_hensu) | 変数定義 |
 | [2_kansu](./2_kansu) | 関数定義 |
+| [3_class](./3_class) | クラス定義 |
 
 ## ローカルでの実行方法
 このプロジェクトで用意されたTypeScriptを動かす方法を説明します。
@@ -27,9 +28,9 @@ npm install -g typescript
 ```
 cd 1_hensu
 ```
-tsファイルをjavascriptファイルにビルドします。  
+tsファイルをjavascriptファイルにビルドします。(ES5の機能も使っているので -t ES5 が必要です。)  
 ```
-tsc main.ts
+tsc main.ts -t ES5
 ```
 
 ビルド後に作成されたjavascriptファイルを実行します。  
