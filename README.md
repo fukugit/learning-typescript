@@ -7,6 +7,8 @@ TypeScriptの勉強用リポジトリです。
 | [1_hensu](./1_hensu) | 変数定義 |
 | [2_kansu](./2_kansu) | 関数定義 |
 | [3_class](./3_class) | クラス定義 |
+| [4_class_extends](./4_class_extends) | クラスの継承 |
+| [5_class_static](./5_class_static) | クラスのStatic変数・メソッド |
 
 ## ローカルでの実行方法
 このプロジェクトで用意されたTypeScriptを動かす方法を説明します。
