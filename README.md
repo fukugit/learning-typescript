@@ -9,6 +9,7 @@ TypeScriptの勉強用リポジトリです。
 | [3_class](./3_class) | クラス定義 |
 | [4_class_extends](./4_class_extends) | クラスの継承 |
 | [5_class_static](./5_class_static) | クラスのStatic変数・メソッド |
+| [6_interface](./6_interface) | インターフェース |
 
 ## ローカルでの実行方法
 このプロジェクトで用意されたTypeScriptを動かす方法を説明します。
