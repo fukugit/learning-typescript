@@ -1,8 +1,16 @@
 /* number型 */
-var i: number;
-var i: number = 10;
-var i = 10; // i: number
-console.log('number型の変数iの値は、' + i);
+var a: number;
+var b = 10; // i: number
+let normal: number = 10;
+let nagative: number = -100;
+let float: number = 3.14;
+console.log('number型の変数normalの値は、' + normal);
+console.log('number型の変数floatの値は、' + float);
+console.log('number型の変数nagativeの値は、' + nagative);
+
+/* Boolean */
+let hasValue: boolean = true;
+console.log('boolean型の変数hasValueの値は、' + hasValue);
 
 /* string型 */
 var str: string;
